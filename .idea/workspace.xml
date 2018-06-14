@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cc5271ff-4457-4977-b59c-72d418f34fb2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/WeightWatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/WeightWatcher.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -102,8 +101,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="181" />
-    <option name="y" value="86" />
+    <option name="x" value="95" />
+    <option name="y" value="29" />
     <option name="width" value="1400" />
     <option name="height" value="915" />
   </component>
@@ -260,7 +259,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528932480798</updated>
-      <workItem from="1528932482809" duration="5144000" />
+      <workItem from="1528932482809" duration="5532000" />
     </task>
     <servers />
   </component>
@@ -273,10 +272,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5144000" />
+    <option name="totallyTimeSpent" value="5532000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="181" y="86" width="1400" height="915" extended-state="0" />
+    <frame x="95" y="29" width="1400" height="915" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -292,7 +291,7 @@
       <window_info anchor="bottom" id="Terminal" weight="0.38141808" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1413844" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1413844" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
