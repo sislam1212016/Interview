@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cc5271ff-4457-4977-b59c-72d418f34fb2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/WeightWatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/WeightWatcher.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,10 +38,9 @@
       <file leaf-file-name="WeightWatcher.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/WeightWatcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
-              <caret line="46" column="49" lean-forward="true" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
+            <state relative-caret-position="45">
+              <caret line="3" column="127" selection-start-line="3" selection-start-column="127" selection-end-line="3" selection-end-column="127" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#463#464#0" expanded="true" />
                 <element signature="e#499#500#0" expanded="true" />
               </folding>
@@ -102,8 +102,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="351" />
-    <option name="y" value="60" />
+    <option name="x" value="181" />
+    <option name="y" value="86" />
     <option name="width" value="1400" />
     <option name="height" value="915" />
   </component>
@@ -260,7 +260,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528932480798</updated>
-      <workItem from="1528932482809" duration="4406000" />
+      <workItem from="1528932482809" duration="5144000" />
     </task>
     <servers />
   </component>
@@ -273,10 +273,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4406000" />
+    <option name="totallyTimeSpent" value="5144000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="351" y="60" width="1400" height="915" extended-state="0" />
+    <frame x="181" y="86" width="1400" height="915" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -289,7 +289,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.22592153" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.014669927" />
+      <window_info anchor="bottom" id="Terminal" weight="0.38141808" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1413844" />
@@ -331,10 +331,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/WeightWatcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="46" column="49" lean-forward="true" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
+        <state relative-caret-position="45">
+          <caret line="3" column="127" selection-start-line="3" selection-start-column="127" selection-end-line="3" selection-end-column="127" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#463#464#0" expanded="true" />
             <element signature="e#499#500#0" expanded="true" />
           </folding>

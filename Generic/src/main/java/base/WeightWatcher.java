@@ -1,7 +1,7 @@
 package base;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;                                                                                           clear
+import org.openqa.selenium.WebDriver;                                                                                          
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 import org.testng.annotations.Test;
 
